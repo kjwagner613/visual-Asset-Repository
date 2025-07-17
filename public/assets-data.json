@@ -1,0 +1,112 @@
+{
+  "timestamp": "2025-07-17T21:58:38.707Z",
+  "totalAssets": 10,
+  "categories": {
+    "commercial_use": [
+      {
+        "name": "JWJ Favicon.jpeg",
+        "path": "digital-assets/commercial_use/JWJ Favicon.jpeg",
+        "extension": ".jpeg",
+        "sizeKB": "10.03",
+        "created": "2025-07-17T18:55:50.878Z",
+        "modified": "2025-07-17T18:55:50.878Z",
+        "hash": "4dbd84193c6753e77feffb2827057ee7e74d4a73179469f5f94470463ba698c6",
+        "status": "unchecked"
+      },
+      {
+        "name": "JWJ-Solutions-Logo-2-matt.png",
+        "path": "digital-assets/commercial_use/JWJ-Solutions-Logo-2-matt.png",
+        "extension": ".png",
+        "sizeKB": "44.74",
+        "created": "2025-07-17T18:56:09.000Z",
+        "modified": "2025-07-17T18:56:09.050Z",
+        "hash": "a8445a07489e0deae460f21866934b2a4f884188d045b1e115bb9e1fbb613f44",
+        "status": "unchecked"
+      },
+      {
+        "name": "KJW-logo-castle-1024-colorCorrected-wMatt.png",
+        "path": "digital-assets/commercial_use/KJW-logo-castle-1024-colorCorrected-wMatt.png",
+        "extension": ".png",
+        "sizeKB": "1170.72",
+        "created": "2025-07-17T18:57:26.964Z",
+        "modified": "2025-07-17T18:57:27.104Z",
+        "hash": "d046c37043638ab9387ccd972f1b75c2bd5d0104a5749d14723833d0852c2d3a",
+        "status": "unchecked"
+      },
+      {
+        "name": "castlebadge-300-wBevel.png",
+        "path": "digital-assets/commercial_use/castlebadge-300-wBevel.png",
+        "extension": ".png",
+        "sizeKB": "119.26",
+        "created": "2025-07-17T18:57:20.374Z",
+        "modified": "2025-07-17T18:57:20.384Z",
+        "hash": "1f64b9cb877a36553e79a7979c763f4eb1565ef67e425c2cad2d25e90094c06e",
+        "status": "unchecked"
+      }
+    ],
+    "creative_commons": [
+      {
+        "name": "Chinese_Plum_Blossom.jpg",
+        "path": "digital-assets/creative_commons/Chinese_Plum_Blossom.jpg",
+        "extension": ".jpg",
+        "sizeKB": "22.25",
+        "created": "2025-07-17T20:15:41.336Z",
+        "modified": "2025-07-17T20:15:41.396Z",
+        "hash": "3a61f1755f222cb20d0d02b07dfe589edb5f166d37792483f9bb2a99c0ce7962",
+        "status": "unchecked"
+      },
+      {
+        "name": "IMPATIENS_walleriana.jpg",
+        "path": "digital-assets/creative_commons/IMPATIENS_walleriana.jpg",
+        "extension": ".jpg",
+        "sizeKB": "27.50",
+        "created": "2025-07-17T20:15:41.446Z",
+        "modified": "2025-07-17T20:15:41.516Z",
+        "hash": "e18d493d4648046afcff014fe97251d7a04f3520f768f81139cd86c89267a6eb",
+        "status": "unchecked"
+      },
+      {
+        "name": "Nicotiana.jpg",
+        "path": "digital-assets/creative_commons/Nicotiana.jpg",
+        "extension": ".jpg",
+        "sizeKB": "9.76",
+        "created": "2025-07-17T20:15:41.556Z",
+        "modified": "2025-07-17T20:15:41.626Z",
+        "hash": "50985b95d8f403bdd87fd6fe6429fc457c4fefc2c23d03ec69bc97a67cb86134",
+        "status": "unchecked"
+      },
+      {
+        "name": "Sarracenia_leucophylla.jpg",
+        "path": "digital-assets/creative_commons/Sarracenia_leucophylla.jpg",
+        "extension": ".jpg",
+        "sizeKB": "16.36",
+        "created": "2025-07-17T20:15:41.666Z",
+        "modified": "2025-07-17T20:15:41.686Z",
+        "hash": "e516242879b56dca9ec0a92b79b1d6fbb1f7aa6e9f5bec80aceebe250b5979c9",
+        "status": "unchecked"
+      }
+    ],
+    "source_unknown": [
+      {
+        "name": "landscape1.jpg",
+        "path": "digital-assets/source_unknown/landscape1.jpg",
+        "extension": ".jpg",
+        "sizeKB": "14.55",
+        "created": "2025-07-17T20:16:17.525Z",
+        "modified": "2025-07-17T20:16:17.534Z",
+        "hash": "56b102ed54e0a317f9779109cd48f6f822825ca494e1d5df501847b1161ac2af",
+        "status": "unchecked"
+      },
+      {
+        "name": "landscape2.jpg",
+        "path": "digital-assets/source_unknown/landscape2.jpg",
+        "extension": ".jpg",
+        "sizeKB": "151.62",
+        "created": "2025-07-17T20:16:17.580Z",
+        "modified": "2025-07-17T20:16:17.608Z",
+        "hash": "37505ae5e312f87b0a886fe8e8b1cbe7a5f6af11736b03718234e84e9c3ffcc3",
+        "status": "unchecked"
+      }
+    ]
+  }
+}
